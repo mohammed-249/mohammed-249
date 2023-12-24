@@ -32,7 +32,6 @@ Beyond my professional abilities, I take pride in being a friendly, joyful, and 
 - 👨🏽‍💻  Currently working as a Research Fellow at [**Equitech Futures**](https://www.equitechfutures.com/).
 - 🌟  I Co-founded [**Yalla Nabda Business**](https://www.ynb.sd/), providing innovative business solutions for startups and small businesses in Sudan.
 - 💬  Let's brainstorm over tech startup ideas, data science solutions, career, and travel.
-- 🔍  Interested in my path to this point? Think [**certificates**](https://github.com/karmasta13/karmasta13/tree/main/certificate_station) for the story.
 - ⚡  Fun fact: I'm addicted to traveling, discovering new cultures and adventures.
 
 <br/>
