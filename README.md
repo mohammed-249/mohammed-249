@@ -54,7 +54,7 @@ Beyond my professional abilities, I take pride in being a friendly, joyful, and 
 </picture>
 
 <picture>
- <img width="13%"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-249&theme=github-dark-blue&hide_border=true&stroke=0000&exclude_days=Sun%2CSat&hide_total_contributions=true&background=060A0CD0&hide_current_streak=true&card_width=130"/>
+ <img width="13%"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-249&theme=github-dark-blue&hide_border=true&stroke=0000&hide_total_contributions=true&background=060A0CD0&hide_current_streak=true&card_width=130"/>
 </picture>
 
 <picture>
