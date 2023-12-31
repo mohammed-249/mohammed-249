@@ -39,7 +39,7 @@ Beyond my professional abilities, I take pride in being a friendly, joyful, and 
 ### Contact
 
 - 📨 Email: [**mohammedhassanmusa@gmail.com**](mailto:mohammedhassanmusa@gmail.com)
-- 🔗 LinkedIn: [**Mohammed249**](https://linkedin.com/in/mohammed249/)
+- 🔗 LinkedIn: [**linkedin/in/mohammed249**](https://linkedin.com/in/mohammed249/)
 - 🌐 Website: [**mohammed249.com**](https://www.mohammed249.com/)
 
 
